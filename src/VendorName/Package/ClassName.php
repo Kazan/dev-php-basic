@@ -2,11 +2,19 @@
 
 namespace VendorName\Package;
 
+/**
+ * ClassName
+ *
+ * @package Package
+ */
 class ClassName
 {
 
-    public function start()
+    /**
+     * Class constructor
+     */
+    public function __construct()
     {
-        return 'Class started...';
+        //implementation...
     }
 }
