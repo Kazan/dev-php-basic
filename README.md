@@ -21,17 +21,12 @@ Next steps
 ----------
 
 1. Rename `src/` directory contents accordingly:
-
     - VendorName
     - Package
     - ClassName.php
-
 2. Rename `tests/unit/` directory contents accordingly:
-
     - VendorName
     - Package
     - ClassNameTest.php
-
 3. Delete `.git` folder completely and initialize new git repo.
-
 4. Play some music and get sh*t done
